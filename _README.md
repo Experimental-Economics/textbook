@@ -3,7 +3,7 @@
 
 This repository contains code and data to replicate the exhibits and supplementary materials from:
 
-**John List, 2026. "Experimental Economics: Theory and Practice"
+**John List, 2026. "Experimental Economics: Theory and Practice"**
 
 All replication materials have been implemented in three statistical software packages (Python, R, and Stata) to maximize accessibility for researchers. Each implementation has been verified to produce identical or equivalent results.
 
